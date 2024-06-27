@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/share-qq-release.aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f549264904c65a23fb71b6ef71288d57/transformed/jetified-share-qq-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f549264904c65a23fb71b6ef71288d57/transformed/jetified-share-qq-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f549264904c65a23fb71b6ef71288d57/transformed/jetified-share-qq-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

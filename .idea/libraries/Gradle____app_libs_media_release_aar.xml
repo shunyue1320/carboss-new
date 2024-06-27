@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/media-release.aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4117e84c831e7c9c4f64477309257350/transformed/jetified-media-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4117e84c831e7c9c4f64477309257350/transformed/jetified-media-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4117e84c831e7c9c4f64477309257350/transformed/jetified-media-release/jars/libs/danmaku-flame-0.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4117e84c831e7c9c4f64477309257350/transformed/jetified-media-release/jars/libs/ijkplayer.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4117e84c831e7c9c4f64477309257350/transformed/jetified-media-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4117e84c831e7c9c4f64477309257350/transformed/jetified-media-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

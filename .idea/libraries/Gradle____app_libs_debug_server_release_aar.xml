@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/debug-server-release.aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/64d7a35a68b3b2d51c197baa51827b8e/transformed/jetified-debug-server-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/64d7a35a68b3b2d51c197baa51827b8e/transformed/jetified-debug-server-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/64d7a35a68b3b2d51c197baa51827b8e/transformed/jetified-debug-server-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

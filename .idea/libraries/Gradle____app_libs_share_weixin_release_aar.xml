@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/share-weixin-release.aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aa636366ff000629fa1acc9aa43a5294/transformed/jetified-share-weixin-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aa636366ff000629fa1acc9aa43a5294/transformed/jetified-share-weixin-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aa636366ff000629fa1acc9aa43a5294/transformed/jetified-share-weixin-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

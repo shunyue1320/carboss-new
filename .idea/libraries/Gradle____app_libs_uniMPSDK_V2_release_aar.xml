@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/uniMPSDK-V2-release.aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7126e3dc02a02a67a9bc3126854370a5/transformed/jetified-uniMPSDK-V2-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7126e3dc02a02a67a9bc3126854370a5/transformed/jetified-uniMPSDK-V2-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7126e3dc02a02a67a9bc3126854370a5/transformed/jetified-uniMPSDK-V2-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
